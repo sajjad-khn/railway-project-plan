@@ -6,7 +6,7 @@ This repository contains a comprehensive project plan simulating the full lifecy
 
 ## 🛠 Project Overview
 
-**Client**: PANTOhealth  
+
 **Contractor**: Sajjad Kaheni  
 **Start Date**: April 5, 2025  
 **Duration**: ~3 months  
